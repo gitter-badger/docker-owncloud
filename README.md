@@ -1,5 +1,7 @@
 # Docker-owncloud
 
+[![Join the chat at https://gitter.im/CreateBuildExecute/docker-owncloud](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CreateBuildExecute/docker-owncloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [OwnCloud](http://owncloud.org/) images for Docker.
 For use with [Docker](http://docker.io)
 
